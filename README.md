@@ -1,14 +1,13 @@
 # 💫 About Me:
 
-👋 Hey there, I’m [Praveen Patil](https://www.linkedin.com/in/praveenpatil07/)!  
+👋 Hey there, I’m [Praveen Patil](https://praveenpatil.vercel.app/)!  
 🎓 Final-year engineering student @ Bangalore Institute of Technology  
-💻 I’m a passionate full-stack developer and problem-solver  
-🌱 Currently exploring Backend APIs, Firebase, and GSoC 2025  
-🚀 I believe in building meaningful tech that solves real-world problems  
+💻 I’m a python developer who enjoys building practical and impactful applications  
+🌱 Currently exploring backend APIs, cloud deployment, and system-level development  
+🚀 I believe in writing clean code and using tech to solve real-world problems  
 📬 Reach me at: praveenpatil8377@gmail.com
 
 ---
-
 # 💻 Tools and Technologies:
 
 ### 🧠 Programming Languages  
@@ -58,6 +57,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenpatil07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenpatil8377@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_praveen_patil_07_/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://blogopedia-my3g.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://praveenpatil.vercel.app/)
 
----
